@@ -1,2 +1,3 @@
 # amazon-clone
-This is amazon home page clone 
+This is amazon home page clone.
+author- Vinay Patidar
